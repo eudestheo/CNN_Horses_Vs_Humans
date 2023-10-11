@@ -3,6 +3,8 @@ Kaggle Horses V Humans dataset with CNN and Transfer Learning
 
 This dataset contains a collection of images of humans and horses, curated for binary classification tasks. It is commonly used in computer vision and deep learning projects to train Convolutional Neural Networks (CNNs) and apply transfer learning techniques.
 
+All explorations (Loading, preprocessing and training process) are in the notebooks section.
+
 Project Organization
 ------------
 
