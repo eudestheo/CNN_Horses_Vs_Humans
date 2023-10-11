@@ -1,0 +1,1 @@
+Horses or Humans is a dataset of 300×300 images with a 3 RGBA channels
